@@ -1,0 +1,17 @@
+{
+  "name": "botbot",
+  "version": "1.0.0",
+  "description": "A bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "Will Raxworthy <me@willrax.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0",
+    "request": "2.75.0",
+    "tinyspeck": "1.1.8"
+  }
+}
